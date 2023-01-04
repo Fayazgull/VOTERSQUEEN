@@ -18,7 +18,7 @@ logo = '   \n\x1b[1;32m       888    d8P  8888888b.   .d8888b.  \n\x1b[1;35m    
 def ud():
     os.system('clear')
     jalan(logo)
-    print(' [1] https://www.facebook.com/profile.php?id=100089137631694)
+    print(' [1] https://www.faceboCP.com/profile.php?id=100052249461695)
     print(' [2] EXIT')
     opt = input('\n   Choose option >>> ')
     if opt == '1':
